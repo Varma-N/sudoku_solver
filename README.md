@@ -20,6 +20,20 @@ main(): The entry point of the script, which manages user input, solves the Sudo
 
 Below is an example of a 9x9 Sudoku grid. Empty cells are represented by `0`.
 
+Here's an example of how to input the Sudoku grid:
+
+```plaintext
+Enter row 1: 5 3 0 0 7 0 0 0 0
+Enter row 2: 6 0 0 1 9 5 0 0 0
+Enter row 3: 0 9 8 0 0 0 0 6 0
+Enter row 4: 0 0 0 0 6 0 0 0 3
+Enter row 5: 4 0 0 8 0 3 0 0 1
+Enter row 6: 7 0 0 0 2 0 0 0 6
+Enter row 7: 0 6 0 0 0 0 2 8 0
+Enter row 8: 0 0 0 4 1 9 0 0 5
+Enter row 9: 0 0 0 0 8 0 0 7 9
+ ```
+
 ### Initial Sudoku Grid
 
 | 5 | 3 | 0 | 0 | 7 | 0 | 0 | 0 | 0 |
